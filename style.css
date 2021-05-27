@@ -1,0 +1,19 @@
+#date {
+	text-align: center;
+  color:green;
+}
+#green {
+  background-color:green;
+  color:white;
+  font-style:italic;
+}
+#red{
+  background-color:red;
+  color:black;
+  font-style:italic;
+}
+#time{
+  width:60px;
+  height:30px;
+  font-size:20px;
+}
